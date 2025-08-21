@@ -2,6 +2,8 @@
 
 This project focuses on analyzing the spread and impact of COVID-19 across India using publicly available datasets. The goal is to uncover trends in confirmed cases, recoveries, deaths, and testing over time, as well as state-wise variations.
 
+[Dashboard](https://public.tableau.com/views/COVID-19Dashboard_17525245953020/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 ## Key Analyses
 * State-wise Cases – Comparison of confirmed, active, recovered, and deceased cases across different states and union territories.
