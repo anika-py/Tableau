@@ -18,6 +18,5 @@ This project focuses on analyzing the spread and impact of COVID-19 across India
 * Recovery rates improved over time, but mortality rates varied across states due to healthcare capacity differences.
 * Testing levels were correlated with higher detection, highlighting the role of widespread testing in case identification.
 
-Python (Pandas, Matplotlib, Seaborn) / Tableau (if visualized interactively)
-
-COVID-19 India Dataset (time-series & state-level)
+---
+## [COVID-19 India Dataset (time-series & state-level)] (https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?select=covid_vaccine_statewise.csv)
