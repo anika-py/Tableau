@@ -19,4 +19,4 @@ This project focuses on analyzing the spread and impact of COVID-19 across India
 * Testing levels were correlated with higher detection, highlighting the role of widespread testing in case identification.
 
 ---
-## [COVID-19 India Dataset (time-series & state-level)] (https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?select=covid_vaccine_statewise.csv)
+## (COVID-19 India Dataset (time-series & state-level)) [https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?select=covid_vaccine_statewise.csv]
